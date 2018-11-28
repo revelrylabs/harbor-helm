@@ -1,3 +1,7 @@
+# WHY DID I FORK THIS?
+
+They're not tagging anything on the main repo right now except a pretty old version that doesn't seem to work too well. This fork will let us avoid being at the mercy of their master branch.
+
 # Helm Chart for Harbor
 
 **Notes:** The master branch is in heavy development, please use the codes on other branch instead. A high available solution for Harbor based on chart can be find [here](docs/High%20Availability.md).  
